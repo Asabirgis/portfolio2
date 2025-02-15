@@ -10,14 +10,14 @@
 
 ul {
     margin: 0;
-    padding: 0;
+    padding: 1;
     list-style-type: none;
 }
 
 li{
     float: left
-    margin: 30px;
-    padding: 70px;
+    margin: 20px;
+    padding: 40px;
     display: inline;
     
 }
